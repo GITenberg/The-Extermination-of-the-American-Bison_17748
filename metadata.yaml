@@ -1,0 +1,37 @@
+_repo: The-Extermination-of-the-American-Bison_17748
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hornaday, William T. (William Temple)
+    aliases:
+    - Hornaday, Dr. William T.
+    - Hornaday, William Temple
+    - Hornaday, W. T. (William Temple)
+    birthdate: 1854
+    deathdate: 1937
+    gutenberg_agent_id: '1920'
+    url: http://www.gutenberg.org/2009/agents/1920
+    wikipedia: http://en.wikipedia.org/wiki/William_Temple_Hornaday
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Ecology
+- Animals-Wild-Trapping
+- Animals-Wild-Mammals
+gutenberg_issued: '2006-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17748'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'American bison'
+- !lcsh 'Wildlife conservation -- United States -- Sources'
+title: The Extermination of the American Bison
+url: http://www.gutenberg.org/ebooks/17748
