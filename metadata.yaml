@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1920
     wikipedia: http://en.wikipedia.org/wiki/William_Temple_Hornaday
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17748#The-Extermination-of-the-American-Bison
 gutenberg_bookshelf:
 - Animal
 - Ecology
